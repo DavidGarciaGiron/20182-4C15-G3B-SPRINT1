@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    
+    
+}
+body{
+    background: url(../img/fonfoR_1.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Roboto;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+header{
+    background: rgba(124,0,0,.5);
+    margin-top: 0;
+    
+}
+header h1{
+    padding-top:1%; 
+    padding-bottom:1%; 
+    color: white;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 60px;
+}
+#descripcion{
+    width: 90%;
+    padding-left: 0%;
+    padding-rigth:5%;
+    
+}
+
+#descripcion h2{
+    font-family:  Roboto;
+    font-size: 35px;
+    color: black;
+}
+#descripcion p{
+    font-family:  Roboto;
+    font-size: 30px;
+    margin-rigth: 10%;
+    text-justify: center;
+    color:black;
+    
+}
+#contenedor{
+    background: rgba(0,0,0,.4);
+    padding-left: 5%;
+    padding-rigth: 50%;
+    padding-top: 1%;
+    margin: 5%;
+    margin-top: 1%;
+    border-radius: 10px;
+    padding-bottom:26%; 
+}
+
+
+#rigth{
+   float:left;
+   width: 100%;
+   margin-rigth: 10%; 
+}
+img#img1{
+    width: 100%;
+}
+.btn1{
+    width: 100%;
+    background: rgba(124,0,0,0.5);
+    color:white;
+}
+.btn2{
+    width: 100%;
+    background: rgba(0,0,0,0.5);
+    color:white;
+}
+label{
+    font-family: Roboto;
+    font-size: 30px;
+    color: black;
+}
+
+input1{
+    font-family: roboto;
+    font-size: 30px;
+}
